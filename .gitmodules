@@ -1,0 +1,54 @@
+[submodule "submodules/gramps-project/gramps"]
+	path = submodules/gramps-project/gramps
+	url = https://github.com/gramps-project/gramps.git
+[submodule "submodules/gramps-project/gramps-addons-source"]
+	path = submodules/gramps-project/gramps-addons-source
+	url = https://github.com/gramps-project/addons-source.git
+[submodule "submodules/gramps-project/gramps-web"]
+	path = submodules/gramps-project/gramps-web
+	url = https://github.com/gramps-project/gramps-web.git
+[submodule "submodules/gramps-project/gramps-web-docs"]
+	path = submodules/gramps-project/gramps-web-docs
+	url = https://github.com/gramps-project/gramps-web-docs.git
+[submodule "submodules/gramps-project/gramps-web-api"]
+	path = submodules/gramps-project/gramps-web-api
+	url = https://github.com/gramps-project/gramps-web-api.git
+[submodule "submodules/FamilySearch/GEDCOM"]
+	path = submodules/FamilySearch/GEDCOM
+	url = https://github.com/FamilySearch/GEDCOM.git
+[submodule "submodules/FamilySearch/gedcomx-java"]
+	path = submodules/FamilySearch/gedcomx-java
+	url = https://github.com/FamilySearch/gedcomx-java.git
+[submodule "submodules/FamilySearch/gedcomx-viewer"]
+	path = submodules/FamilySearch/gedcomx-viewer
+	url = https://github.com/FamilySearch/gedcomx-viewer.git
+[submodule "submodules/FamilySearch/gedcom5-java"]
+	path = submodules/FamilySearch/gedcom5-java
+	url = https://github.com/FamilySearch/gedcom5-java.git
+[submodule "submodules/FamilySearch/gedcom5-conversion"]
+	path = submodules/FamilySearch/gedcom5-conversion
+	url = https://github.com/FamilySearch/gedcom5-conversion.git
+[submodule "submodules/FamilySearch/gedcomx-restfull-api"]
+	path = submodules/FamilySearch/gedcomx-restfull-api
+	url = https://github.com/FamilySearch/gedcomx-rs.git
+[submodule "submodules/FamilySearch/gedcomx"]
+	path = submodules/FamilySearch/gedcomx
+	url = https://github.com/FamilySearch/gedcomx.git
+[submodule "submodules/FamilySearch/GEDCOM-IO"]
+	path = submodules/FamilySearch/GEDCOM-IO
+	url = https://github.com/FamilySearch/GEDCOM.io.git
+[submodule "submodules/ameros/genyaml"]
+	path = submodules/ameros/genyaml
+	url = https://github.com/ameros/genyaml.git
+[submodule "submodules/ameros/gedcom-svg-tree"]
+	path = submodules/ameros/gedcom-svg-tree
+	url = https://github.com/ameros/gedcom-svg-tree.git
+[submodule "submodules/geneweb/geneweb"]
+	path = submodules/geneweb/geneweb
+	url = https://github.com/geneweb/geneweb.git
+[submodule "submodules/geneweb/geneweb-contrib"]
+	path = submodules/geneweb/geneweb-contrib
+	url = https://github.com/geneweb/geneweb-contrib.git
+[submodule "submodules/geneweb/ged_v7"]
+	path = submodules/geneweb/ged_v7
+	url = https://github.com/geneweb/ged_v7.git
